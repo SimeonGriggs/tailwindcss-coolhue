@@ -1,0 +1,35 @@
+{
+  "name": "tailwindcss-coolhue",
+  "version": "0.0.1",
+  "description": "Coolhue gradients right in your Tailwind",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimeonGriggs/tailwindcss-coolhue"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "plugin",
+    "tailwind",
+    "tailwind css",
+    "tailwindcss",
+    "tailwindcss-plugin"
+  ],
+  "scripts": {
+    "dev": "vite"
+  },
+  "license": "MIT",
+  "author": "Simeon Griggs <simeon@hey.com>",
+  "main": "index.js",
+  "dependencies": {
+    "coolhue": "^1.0.9",
+    "tailwindcss": "^1.9.5"
+  },
+  "devDependencies": {
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1",
+    "vite": "^1.0.0-rc.1",
+    "vite-plugin-react": "^3.0.0"
+  }
+}
