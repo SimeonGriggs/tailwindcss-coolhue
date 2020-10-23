@@ -21,5 +21,5 @@ module.exports = {
 Now you have 60 gradients from `.bg-coolhue-1` to `.bg-coolhue-60`.
 
 - [Coolhue](https://webkul.github.io/coolhue/)
-- [Demo on Tailwind CSS Play](https://play.tailwindcss.com/plJICXQGJA?file=config)
+- [Demo on Tailwind CSS Play](https://play.tailwindcss.com/Pw4yNcgGkG?file=config)
 - By [Simeon Griggs](https://simeongriggs.dev/)
